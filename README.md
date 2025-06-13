@@ -9,7 +9,7 @@ The implementation ensures correct data flow, hazard management, and functional 
 
 ### Pipelined ARM:
 <p align="center">
-  <img src="assets/pipelined_arm.jpg" width="75%">
+  <img src="assets/piplined_arm.jpg" width="75%">
 </p>
 
 ---
