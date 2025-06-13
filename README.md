@@ -30,7 +30,7 @@ The implementation ensures correct data flow, hazard management, and functional 
 Each module was tested individually to ensure correctness before full integration.
 
 
-## 🖥️ Technologies Used
+## Technologies Used
 - **Language:** Verilog (Hardware Description Language)
 - **Simulation Tools:** Xilinx ISE / Vivado
 
